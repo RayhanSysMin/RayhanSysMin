@@ -1,8 +1,8 @@
-# MD Rayhan Sardar 👋
+# Rayhan Sardar 👋
 
 **Web Developer • System Administrator • Linux Server & WordPress Infrastructure Specialist**
 
-I’m **MD Rayhan Sardar**. I’m a Bangladesh-based web developer and system administrator focused on building, managing, optimizing, securing, and scaling web infrastructure.
+I’m **Rayhan Sardar**. I’m a Bangladesh-based web developer and system administrator focused on building, managing, optimizing, securing, and scaling web infrastructure.
 
 My work combines **Linux server administration, WordPress performance, hosting infrastructure, PHP/Laravel development, automation, networking, caching, databases, and production troubleshooting**.
 
